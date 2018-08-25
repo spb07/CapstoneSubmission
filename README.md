@@ -1,14 +1,17 @@
-#Exploratory Data Analysis.ipynb
+Exploratory Data Analysis.ipynb:
+
 Feature visualisation,engineering and selection
 
-#CreditScoring.ipynb
+CreditScoring.ipynb:
+
 Model training, optimisation, validation and interpretation
 
-##Packages installed through **pip**:
-*seaborn
-*plotly
-*cufflinks
-*sklearn
-*lime
+
+Packages installed through pip: 
+seaborn, 
+plotly, 
+cufflinks, 
+sklearn, 
+lime
 
 
